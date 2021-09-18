@@ -8,5 +8,5 @@ This repo is created with the Reactjs tutorial: Intro to React.
  - [x] lift up state from child to parent, `liftstate`, [Lifting State Up](https://reactjs.org/tutorial/tutorial.html#lifting-state-up)
  - [x] convert class to function components, `funccomp`, [Function Components](https://reactjs.org/tutorial/tutorial.html#function-components)
  - [x] setup app to take turns, `taketurns`, [Taking Turns](https://reactjs.org/tutorial/tutorial.html#taking-turns)
- - [ ]
+ - [x] declare winner with calc winner function, `declarewin`, [Declaring a Winner](https://reactjs.org/tutorial/tutorial.html#declaring-a-winner)
  ...
